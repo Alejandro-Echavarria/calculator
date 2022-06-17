@@ -1,0 +1,17 @@
+.input {
+    height: 75px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: #3d3d3d;
+    color: white;
+    padding: 11px 30px 11px 11px;
+    margin-bottom: 15px;
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
+}
