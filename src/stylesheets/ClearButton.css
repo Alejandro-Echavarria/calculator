@@ -9,8 +9,14 @@
     font-weight: bold;
     color: white;
     cursor: pointer;
+    margin-top: 15px;
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
 }
 
-.boton-clear {
-    
+.boton-clear:hover {
+    background-color: #3d3d3d;opacity:0.6;
 }
